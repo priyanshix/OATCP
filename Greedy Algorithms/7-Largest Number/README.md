@@ -1,4 +1,4 @@
-# Largest Number Finder
+# Largest Number
 
 ## Algorithm
 - Read integers from the input file into a vector.
