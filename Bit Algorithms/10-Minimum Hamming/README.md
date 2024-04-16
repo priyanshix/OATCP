@@ -8,4 +8,4 @@
 
 Using a bitwise approach allows the algorithm to efficiently process each bit of the integers in the vector, leading to an optimized solution for calculating the total Hamming distance.
 
-## Time Complexity: \( O(n) \), Space Complexity: \( O(1) \)
+## Time Complexity: O(n), Space Complexity: O(1)
